@@ -1,0 +1,29 @@
+.info-container{
+    width: 96%;
+    margin: 2%;
+}
+
+
+.horario-info-container{
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: black;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 15px;
+}
+
+.horario-info-container h2, h4{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.horario-info-container h2{
+    color: rgb(233, 0, 97);
+    text-align: center;
+}
